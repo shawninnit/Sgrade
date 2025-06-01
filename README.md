@@ -35,8 +35,8 @@
 
 ## 🔗 Useful Links
 
-- 🌐 [Login Page](https://yoursite.com/login)
-- 📊 [Teacher Dashboard](https://yoursite.com/teacher)
+- 🌐 [Login Page](https://shawninnit.github.io/Sgrade/login)
+- 📊 [Teacher Dashboard](https://shawninnit.github.io/Sgrade/)
 
 ---
 
