@@ -33,6 +33,13 @@
 
 ---
 
+## 🔗 Useful Links
+
+- 🌐 [Login Page](https://yoursite.com/login)
+- 📊 [Teacher Dashboard](https://yoursite.com/teacher)
+
+---
+
 ## Installation & Setup
 
 ### Clone the repository:
